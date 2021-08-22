@@ -1,6 +1,10 @@
 #to turn bot on, python main.py in terminal
 #ctrl c to stop it
 
+# git add (the files you want to add)
+# git commit -m "Name of change"
+# git push
+# git pull to synchronize changes from elsewhere
 
 import discord
 
